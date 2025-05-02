@@ -474,6 +474,10 @@ p{
   font-size: 18px;
   font-family: Arial, Helvetica, sans-serif;
 }
+#icon-1{
+  display: flex;
+  background-color: #ffffff;
+}
 .cont-img-1{
   width: 125;
   height: 1100px;
