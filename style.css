@@ -376,6 +376,7 @@ p{
 .footer{
   width: 1400px;
   height: 550px;
+
   /* background-color: #000000; */
   /* border: #ffffff solid 1px; */
   margin-top: 20px;
@@ -385,8 +386,9 @@ p{
 .footer-1{
   width: 440px;
   height: 548px;
-
-  /* border: 1px solid #ffffff; */
+   background-image: url(https://images-beta.tossdown.com/site/a4195117-d4ae-45d4-9088-21162bacdfb1.webp);
+   background-size: cover;
+   /* border: 1px solid #ffffff; */
   display: inline-block;
   text-align: center;
 }
@@ -402,6 +404,8 @@ p{
 .footer-2{
   width: 270px;
   height: 548px;
+  background-image: url(https://images-beta.tossdown.com/site/a4195117-d4ae-45d4-9088-21162bacdfb1.webp);
+  background-size: cover;
   /* border: 1px solid #ffffff; */
 }
 .f-1{
